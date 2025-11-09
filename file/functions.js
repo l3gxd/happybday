@@ -36,7 +36,7 @@ $(window).resize(function() {
 })(jQuery);
 
 function timeElapse(date){
-	var result = "10 Nov 2007";
+	var result = "10 Nov 2009";
 $("#clock").html(result);
 
 	var text = "THE WORLD JUST GOT LUCKIER SINCE ";
